@@ -1,4 +1,4 @@
-# TATA-box-prediction
+# TATA box prediction
 Predict TATA box with HMM data downloaded from EPD Databese (https://epd.epfl.ch/promoter_elements.php) in Python3.
 
 @ EPD Database Citation: 
