@@ -1,7 +1,7 @@
 # TATA box prediction
 Predict TATA box with HMM data downloaded from [EPD Databese](https://epd.epfl.ch/promoter_elements.php) in Python3.
 
-@ EPD Database Citation: 
+@ EPD Database Citations: 
   1. _The eukaryotic promoter database in its 30th year: focus on non-vertebrate organisms. Dreos, R., Ambrosini, G., Groux, R., Périer, R., Bucher, P. Nucleic Acids Res. (2017)._
 
   2. _The Eukaryotic Promoter Database: expansion of EPDnew and new promoter analysis tools. Dreos, R., Ambrosini, G., Périer, R., Bucher, P. Nucleic Acids Res. (2014)._
